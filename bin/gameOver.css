@@ -1,0 +1,26 @@
+
+
+.root {
+	-fx-background-image: url("lostgame.png");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 1500 1000;
+    -fx-background-position: center center;
+	-fx-padding: 10;
+}
+
+
+.label {
+	fx-font-family: "Arial";
+	-fx-font-size: 75px;
+	-fx-font-weight: bold;
+	
+	
+}
+.button {
+	-fx-font-family: "Arial";
+	-fx-font-size: 20px;
+	-fx-font-weight: bold;
+	-fx-background-color: WHITE;
+	-fx-text-fill: #383640;
+}
+
